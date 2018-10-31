@@ -1,0 +1,11 @@
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\bin\Debug\netcoreapp2.0\Appscen1.deps.json
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\bin\Debug\netcoreapp2.0\Appscen1.runtimeconfig.json
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\bin\Debug\netcoreapp2.0\Appscen1.runtimeconfig.dev.json
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\bin\Debug\netcoreapp2.0\Appscen1.dll
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\bin\Debug\netcoreapp2.0\Appscen1.pdb
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.csprojAssemblyReference.cache
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.csproj.CoreCompileInputs.cache
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.AssemblyInfoInputs.cache
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.AssemblyInfo.cs
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.dll
+C:\Users\mosahlao\Documents\GitHub\Qinvest\Scenario1\Appscen1\Appscen1\obj\Debug\netcoreapp2.0\Appscen1.pdb
