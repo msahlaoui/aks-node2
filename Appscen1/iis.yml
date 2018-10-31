@@ -1,9 +1,0 @@
-version: '3.3'
-services:
-web:
-build: web
-image: httpd:alpine
-volumes:
-- "./web/static:/static"
-ports:
-- "80:80"
